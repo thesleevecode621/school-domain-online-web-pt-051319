@@ -15,7 +15,7 @@ def initialize(name)
   def sort
     sorted = {}
     roster.each do |key, values|
-    filter] =values.sort
+    filter [key] 
     end
   filter
   
